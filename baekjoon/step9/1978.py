@@ -1,4 +1,3 @@
-#%% 1978 소수 판별
 N = int(input())
 n = input().split()
 
@@ -7,7 +6,3 @@ res = 0
 for i in n:
     if int(i) in prime: res += 1
 print(res)
-
-#%% 2581
-
-#%%
