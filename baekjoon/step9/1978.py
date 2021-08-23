@@ -1,8 +1,29 @@
+#%%
+import math
+
 N = int(input())
 n = input().split()
-
-prime = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
 res = 0
+one = 0
 for i in n:
-    if int(i) in prime: res += 1
-print(res)
+    if int(i) == 1 : one = -1
+    tmp = 0
+    for j in range(2, int(math.sqrt(int(i)))+1):
+        if int(i) % j  == 0 : tmp = 1
+    if tmp == 0 : res += 1
+
+print(res + one)
+# %%
+N = int(input())
+n = input().split()
+res = 0
+one = 0
+for i in n:
+    if int(i) == 1 : one = -1 
+    tmp = 0 
+    for j in range(2,int(i)):
+        if int(i) % j == 0 : tmp = 1
+    if tmp == 0 : res += 1
+    
+print(res + one)
+# %%
