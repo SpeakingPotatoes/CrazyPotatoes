@@ -1,13 +1,12 @@
 #%%
-import math
 
 N = int(input())
-res = []
+div = 2
+while N != 1:
+    if N % div == 0: 
+        N = N // div
+        print(div)
+    else: div += 1
 
-for i in range(2, int(math.sqrt(i))+1):
-    if N % i == 0 :
-        N = N \ i
-        res.append(i)
-        
 # %%
 
