@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.vscode
+__pycache__/
+.ipynb_checkpoints/
+.converage
+.cache
+.pytest_cache
+.DS_Store
