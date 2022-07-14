@@ -4,3 +4,6 @@
 [submodule "category/test"]
 	path = category/test
 	url = https://github.com/wonhyung64/test
+[submodule "category/OptimLab_MLseminar"]
+	path = category/OptimLab_MLseminar
+	url = https://github.com/wonhyung64/OptimLab_MLseminar
