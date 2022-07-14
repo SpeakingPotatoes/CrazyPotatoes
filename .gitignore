@@ -5,7 +5,7 @@
 .vscode
 __pycache__/
 .ipynb_checkpoints/
-.converage
+.converae
 .cache
 .pytest_cache
 .DS_Store
