@@ -1,3 +1,6 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/wonhyung64/test
+[submodule "category/test"]
+	path = category/test
+	url = https://github.com/wonhyung64/test
