@@ -13,7 +13,3 @@ for i in range(len(n_lst)):
             res.append(n1+n2+n3)
 
 print(m - min([m - num for num in res if m - num >= 0]))
-
-
-
-
