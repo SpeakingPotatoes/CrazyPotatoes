@@ -2,7 +2,7 @@
 ### Data Structures and Algorithms
 
 <details>
-<summary>Steps</summary>
+<summary>Step</summary>
 <div markdown="1">
   
   #### Step 1
@@ -19,7 +19,7 @@
 </details>
 
 <details>
-<summary>Categorys</summary>
+<summary>Category</summary>
 <div markdown="1">
   
   #### Greedy
