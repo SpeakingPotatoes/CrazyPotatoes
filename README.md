@@ -6,7 +6,7 @@ Data Structures and Algorithms
 <div markdown="1">
 
   <details>
-  <summary>Step 1</summary>
+  <summary>* Step 1</summary>
   <div markdown="1">
 
   div 에 markdown attribute 를 1 로 
