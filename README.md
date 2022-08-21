@@ -6,7 +6,9 @@
 <div markdown="1">
   
   #### Step 1
-  
+|Number| Success|
+|---|---|
+|1234|x|
   #### Step 2
 
 </div>
