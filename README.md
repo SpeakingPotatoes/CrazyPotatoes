@@ -44,68 +44,71 @@
 |[2741](./step/step3/2741.py)|o|
 |[2742](./step/step3/2742.py)|o|
 |[8393](./step/step3/8393.py)|o|
+|[10951](./step/step3/10951.py)|o|
+|[10952](./step/step3/10952.py)|o|
+|[1110](./step/step3/1110.py)|o|
 
   #### [Step 4](./step/step4)
 |Number| Success|
 |---|---|
-|[10951](./step/step4/10951.py)|o|
-|[10952](./step/step4/10952.py)|o|
-|[1110](./step/step4/1110.py)|o|
+|[10818](./step/step4/10818.py)|o|
+|[1546](./step/step4/1546.py)|o|
+|[2562](./step/step4/2562.py)|o|
+|[2577](./step/step4/2577.py)|o|
+|[3052](./step/step4/3052.py)|o|
+|[4344](./step/step4/4344.py)|o|
+|[8958](./step/step4/8958.py)|o|
 
   #### [Step 5](./step/step5)
 |Number| Success|
 |---|---|
-|[10818](./step/step5/10818.py)|o|
-|[1546](./step/step5/1546.py)|o|
-|[2562](./step/step5/2562.py)|o|
-|[2577](./step/step5/2577.py)|o|
-|[3052](./step/step5/3052.py)|o|
-|[4344](./step/step5/4344.py)|o|
-|[8958](./step/step5/8958.py)|o|
+|[1065](./step/step5/1065.py)|o|
+|[15596](./step/step5/15596.py)|o|
+|[4673](./step/step5/4673.py)|o|
 
   #### [Step 6](./step/step6)
 |Number| Success|
 |---|---|
-|[1065](./step/step6/1065.py)|o|
-|[15596](./step/step6/15596.py)|o|
-|[4673](./step/step6/4673.py)|o|
+|[10809](./step/step6/10809.py)|o|
+|[1152](./step/step6/1152.py)|o|
+|[1157](./step/step6/1157.py)|o|
+|[11654](./step/step6/11654.py)|o|
+|[11720](./step/step6/11720.py)|o|
+|[1316](./step/step6/1316.py)|o|
+|[2675](./step/step6/2675.py)|o|
+|[2908](./step/step6/2908.py)|o|
+|[2941](./step/step6/2941.py)|o|
+|[5622](./step/step6/5622.py)|o|
 
   #### [Step 7](./step/step7)
 |Number| Success|
 |---|---|
-|[10809](./step/step7/10809.py)|o|
-|[1152](./step/step7/1152.py)|o|
-|[1157](./step/step7/1157.py)|o|
-|[11654](./step/step7/11654.py)|o|
-|[11720](./step/step7/11720.py)|o|
-|[1316](./step/step7/1316.py)|o|
-|[2675](./step/step7/2675.py)|o|
-|[2908](./step/step7/2908.py)|o|
-|[2941](./step/step7/2941.py)|o|
-|[5622](./step/step7/5622.py)|o|
+|[1011](./step/step7/1011.py)|o|
+|[10250](./step/step7/10250.py)|o|
+|[10757](./step/step7/10757.py)|o|
+|[1193](./step/step7/1193.py)|o|
+|[1712](./step/step7/1712.py)|o|
+|[2292](./step/step7/2292.py)|o|
+|[2775](./step/step7/2775.py)|o|
+|[2839](./step/step7/2839.py)|o|
+|[2869](./step/step7/2869.py)|o|
+
 
   #### [Step 8](./step/step8)
 |Number| Success|
 |---|---|
-|[1011](./step/step8/1011.py)|o|
-|[10250](./step/step8/10250.py)|o|
-|[10757](./step/step8/10757.py)|o|
-|[1193](./step/step8/1193.py)|o|
-|[1712](./step/step8/1712.py)|o|
-|[2292](./step/step8/2292.py)|o|
-|[2775](./step/step8/2775.py)|o|
-|[2839](./step/step8/2839.py)|o|
-|[2869](./step/step8/2869.py)|o|
-|[4948](./step/step8/4948.py)|x|
-
-  #### [Step 9](./step/step9)
-|Number| Success|
-|---|---|
+|[11653](./step/step8/11653.py)|x|
+|[1929](./step/step8/1929.py)|x|
+|[1978](./step/step8/1978.py)|x|
+|[2581](./step/step8/2581.py)|x|
+|[4948](./step/step7/4948.py)|x|
 
   #### [Step 10](./step/step10)
 |Number| Success|
 |---|---|
+|[2798](./step/step10/2798.py)|x|
  
+
 </div>
 </details>
 
