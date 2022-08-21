@@ -9,8 +9,12 @@
 |Number| Success|
 |---|---|
 |1234|x|
+  
   #### Step 2
-
+|Number| Success|
+|---|---|
+|1234|x|
+ 
 </div>
 </details>
 
@@ -19,10 +23,19 @@
 <div markdown="1">
   
   #### Greedy
+|Number| Success|
+|---|---|
+|1234|x|
   
   #### BFS
+|Number| Success|
+|---|---|
+|1234|x|
   
   #### DFS
-
+|Number| Success|
+|---|---|
+|1234|x|
+  
 </div>
 </details>
