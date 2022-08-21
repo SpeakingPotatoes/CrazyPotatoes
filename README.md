@@ -8,7 +8,7 @@
   #### Step 1
 |Number| Success|
 |---|---|
-|1234|x|
+|[!1000](./baekjoon/step1/1000.py)|x|
   
   #### Step 2
 |Number| Success|
