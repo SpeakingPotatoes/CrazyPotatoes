@@ -97,16 +97,16 @@
   #### [Step 8](./step/step8)
 |Number| Success|
 |---|---|
-|[11653](./step/step8/11653.py)|x|
+|[11653](./step/step8/11653.py)|o|
 |[1929](./step/step8/1929.py)|x|
-|[1978](./step/step8/1978.py)|x|
-|[2581](./step/step8/2581.py)|x|
+|[1978](./step/step8/1978.py)|o|
+|[2581](./step/step8/2581.py)|o|
 |[4948](./step/step7/4948.py)|x|
 
   #### [Step 10](./step/step10)
 |Number| Success|
 |---|---|
-|[2798](./step/step10/2798.py)|x|
+|[2798](./step/step10/2798.py)|o|
  
 
 </div>
