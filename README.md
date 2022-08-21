@@ -5,7 +5,7 @@
 <summary>Step</summary>
 <div markdown="1">
   
-  #### Step 1
+  #### [Step 1](./baekjoon/step1)
 |Number| Success|
 |---|---|
 |[1000](./baekjoon/step1/1000.py)|o|
