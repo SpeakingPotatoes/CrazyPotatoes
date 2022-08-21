@@ -1,2 +1,2 @@
-# algorithms
+# CrazyPotatoes
 Data Structures and Algorithms
