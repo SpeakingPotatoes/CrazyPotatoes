@@ -120,7 +120,7 @@
 |Number| Success|
 |---|---|
 |[11399](./category/greedy/11399.py)|o|
-|[11047](./category/greedy/11047.py)|x|
+|[11047](./category/greedy/11047.py)|o|
 
   #### [BFS](./category/bfs)
 |Number| Success|
