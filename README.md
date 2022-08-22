@@ -131,4 +131,4 @@
 </div>
 </details>
 
-![Baekjoon Online Judge](https://www.acmicpc.net/)
+[Baekjoon Online Judge](https://www.acmicpc.net/)
