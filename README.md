@@ -119,6 +119,7 @@
   #### [Greedy](./category/greedy)
 |Number| Success|
 |---|---|
+|[11399](./category/greedy/11399.py)|o|
 
   #### [BFS](./category/bfs)
 |Number| Success|
