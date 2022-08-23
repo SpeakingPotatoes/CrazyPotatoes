@@ -116,7 +116,7 @@
 <summary>Category</summary>
 <div markdown="1">
   
-  #### [Greedy](./category/greedy)
+  #### [Greedy](./category/greedy) - [solved.ac](https://solved.ac/problems/tags/greedy?sort=solved&direction=desc&page=1)
 |Number| Success|
 |---|---|
 |[11399](./category/greedy/11399.py)|o|
