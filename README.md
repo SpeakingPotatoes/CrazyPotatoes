@@ -5,7 +5,7 @@
 <summary>Step</summary>
 <div markdown="1">
   
-[Baekjoon](https://www.acmicpc.net/step)
+[Baekjoon - 단계별로 풀어보기](https://www.acmicpc.net/step)
   
   #### [Step 1](./step/step1)
 |Number| Success|
