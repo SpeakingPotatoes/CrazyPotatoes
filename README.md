@@ -2,8 +2,10 @@
 ### Data Structures and Algorithms
 
 <details>
-<summary>Step - [Baekjoon](https://www.acmicpc.net/step)</summary>
+<summary>Step</summary>
 <div markdown="1">
+  
+[Baekjoon](https://www.acmicpc.net/step)
   
   #### [Step 1](./step/step1)
 |Number| Success|
