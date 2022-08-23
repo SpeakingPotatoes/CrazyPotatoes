@@ -125,6 +125,7 @@
 |[1026](./category/greedy/1026.py)|o|
 |[1541](./category/greedy/1541.py)|o|
 |[5585](./category/greedy/5585.py)|o|
+|[2217](./category/greedy/2217.py)|x|
 
   #### [BFS](./category/bfs)
 |Number| Success|
