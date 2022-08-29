@@ -35,3 +35,21 @@ NO
 NO
 NO
 '''
+
+res = []
+T = int(input())
+for i in range(T):
+    brackets = list(input())
+    num = 0
+
+    for _ in range(len(brackets)):
+        b = brackets.pop()
+        if b == ")":
+            num -= 1
+        else:
+            if num == 0: 
+                num = -999
+                break
+            num += 1
+    res.append("YES" if num == 0 else "NO")
+for r in res: print(r)
