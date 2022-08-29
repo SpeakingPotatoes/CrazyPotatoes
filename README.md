@@ -138,7 +138,7 @@
 |[9012](./category/stack/9012.py)|o|
 |[10828](./category/stack/10828.py)|o|
 |[10773](./category/stack/10773.py)|o|
-|[1874](./category/stack/1874.py)|-|
+|[1874](./category/stack/1874.py)|o|
 
 #### [Queue](./category/queue) - [solved.ac](https://solved.ac/problems/tags/queue?sort=solved&direction=desc&page=1)
 |Number| Success|

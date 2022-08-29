@@ -49,27 +49,42 @@ NO
 힌트
 1부터 n까지에 수에 대해 차례로 [push, push, push, push, pop, pop, push, push, pop, push, push, pop, pop, pop, pop, pop] 연산을 수행하면 수열 [4, 3, 6, 8, 7, 5, 2, 1]을 얻을 수 있다.
 '''
-seq = [4,3,6,8,7,5,2,1]
-s_stack = [8,7,6,5,4,3,2,1]
+
+seq = []
+N = int(input())
+s_stack = [i for i in range(N, 0, -1)]
+
+for _ in range(N):
+    num = int(input())
+    seq.append(num)
+
 m_stack = []
 e_stack = []
 i = 0
-num = seq[i]
 ele = 0
-c_stack = s_stack
-while ele != seq[i]:
-    ele = s_stack.pop()
-    if ele == seq[i]:
-        e_stack.append(ele)
-        i += 1
-        if ele > seq[i]:
-            ele = m_stack.pop()
-        elif ele < seq[i]:
-            ele = s_stack.pop()
-    elif ele != seq[i]:
-        m_stack.append(ele)
+res = []
+while True:
+    if ele < seq[i]:
+        ele = s_stack.pop()
+        if ele == seq[i]:
+            e_stack.append(ele)
+            res.append("+")
+            res.append("-")
+            i += 1
+        elif ele != seq[i]:
+            m_stack.append(ele)
+            res.append("+")
+    elif ele > seq[i]:
+        ele = m_stack.pop()
+        if ele == seq[i]:
+            e_stack.append(ele)
+            res.append("-")
+            i += 1
+        elif ele != seq[i]:
+            break
+    if m_stack == [] and s_stack == []: break
 
-
-
-ele = 
-
+if seq == e_stack:
+    for r in res : print(r)
+else:
+    print("NO")
