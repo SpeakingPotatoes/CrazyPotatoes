@@ -135,6 +135,7 @@
 #### [Stack](./category/stack) - [solved.ac](https://solved.ac/problems/tags/stack?sort=solved&direction=desc&page=1)
 |Number| Success|
 |---|---|
+|[9012](./category/stack/9012.py)|-|
 
 #### [Queue](./category/queue) - [solved.ac](https://solved.ac/problems/tags/queue?sort=solved&direction=desc&page=1)
 |Number| Success|
