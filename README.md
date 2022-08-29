@@ -132,12 +132,11 @@
 |[13305](./category/greedy/13305.py)|p.o|
 |[1789](./category/greedy/1789.py)|o|
 
-  #### [Stack, Queue](./category/stack_queue)
-##### Stack - [solved.ac](https://solved.ac/problems/tags/stack?sort=solved&direction=desc&page=1)
+#### [Stack](./category/stack) - [solved.ac](https://solved.ac/problems/tags/stack?sort=solved&direction=desc&page=1)
 |Number| Success|
 |---|---|
 
-##### Queue - [solved.ac](https://solved.ac/problems/tags/queue?sort=solved&direction=desc&page=1)
+#### [Queue](./category/queue) - [solved.ac](https://solved.ac/problems/tags/queue?sort=solved&direction=desc&page=1)
 |Number| Success|
 |---|---|
 
