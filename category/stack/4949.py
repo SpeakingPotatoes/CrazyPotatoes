@@ -40,48 +40,34 @@ yes
 힌트
 7번째의 " ."와 같이 괄호가 하나도 없는 경우도 균형잡힌 문자열로 간주할 수 있다.
 '''
-#%%
-for i in range(3):
-    print(i)
-    for j in range(3):
-        if j >= 2:
-            break
-        print(j)
+
 # %%
-sen_lst = []
 while True:
     sen = input()
     if sen == ".":
         break
-    sen_lst.append(sen)
 
-res = []
-for sen in sen_lst:
     sentence = list(sen)
-    i = 0
+    sentence_len = len(sentence)
+
+    result = "yes"
     stack = []
-    while True:
-        try:
-            string = sentence.pop()
-            if string == ")" or string == "]":
-                stack.append(string)
-            elif string == "(":
-                try:
-                    last = stack.pop()
-                except:
-                    res.append("NO")
-                    break
-                if string != ")":
-                    res.append("NO")
-                    break
-            elif string == "[":
-                try:
-                    last = stack.pop()
-                except:
-                    res.append("NO")
-                    break
-                if string != "]":
-                    res.append("NO")
-                    break
-        except:
-            break
+    for _ in range(sentence_len):
+        string = sentence.pop()
+        if string == ")":
+            stack.append(")")
+        elif string == "(":
+            if len(stack) == 0 or ")" != stack.pop():
+                result = "no"
+                break
+        elif string == "]":
+            stack.append("]")
+        elif string == "[":
+            if len(stack) == 0 or "]" != stack.pop():
+                result = "no"
+                break
+    if len(stack) != 0:
+        result = "no"
+    print(result)
+
+# %%
