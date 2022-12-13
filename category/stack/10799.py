@@ -41,5 +41,28 @@ string2 = list("(()())")
 string3 = list("(()(()()))")
 string4 = list("()(((()())(())()))(())")
 # -> 막대 하나당 레이져 + 1 개로 나눠짐
-# -> 막대 갯수 n, 레이져 갯수 l 이라고 했을 때 n*(l+1)개
+# -> 막대 갯수 b, 레이져 갯수 l 이라고 했을 때 b*(l+1)개
+b = 0
+l = 0
+res = 0
+previous = ""
+
+x = string3.pop()
+if x == ")":
+    b += 1
+elif x == "(":
+    if previous == ")":
+        b -= 1
+        l += 1
+        if b != 0:
+            res += (l+1)
+            l -= 1
+    elif previous == "(":
+        b -=1
+        if b == 0:
+            l = 0
+previous = x
+print(f"{x} - b:{b}, l:{l}, res:{res}")
+
+
 
