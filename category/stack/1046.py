@@ -216,7 +216,8 @@ M = int(input())
 commands = []
 
 for _ in range(M):
-    commands.append(input())
+    c = sys.stdin.readline()
+    commands += 
 
 commands.reverse()
 cursor = len(string)
@@ -245,3 +246,5 @@ for _ in range(M):
 print("".join(string))
 
 # %%
+import sys
+num = sys.stdin.readline()
